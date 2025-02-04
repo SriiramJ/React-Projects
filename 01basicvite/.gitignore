@@ -28,3 +28,4 @@ package-lock.json
 package.json
 
 eslint.config.js
+vite.config.js
