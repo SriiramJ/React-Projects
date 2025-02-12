@@ -18,7 +18,7 @@ function Github() {
   return (
     <div className="text-center m-4 bg-gray-600 text-white p-4 text-3xl">
       Github Public Repos: {data.public_repos}
-      <img src={data.avatar_url} width={250} alt="" />
+      <img src={data.avatar_url} width={300} alt="" />
     </div>
   );
 }
